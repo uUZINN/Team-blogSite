@@ -1,4 +1,6 @@
 # Team-Project-blogSite
+![image](https://github.com/uUZINN/Team-blogSite/assets/89904583/56e47354-7e0d-4df4-a87d-9c444f9c7dff)
+
 ## Go!교복
 팀플 블로그 사이트 만들기<br>
 <br>
@@ -15,9 +17,6 @@
 <br>
 또, "수다방" 커뮤니티에서 학생들만의 이야기로<br>
 수다의 꽃을 피울 수 있습니다!<br>
-
-![image](https://github.com/uUZINN/Team-blogSite/assets/89904583/56e47354-7e0d-4df4-a87d-9c444f9c7dff)
-
 
 
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"></a>
