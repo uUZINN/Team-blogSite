@@ -30,6 +30,7 @@
 
 ## Design 
 ![image](https://github.com/uUZINN/gogyobok-blogSite/assets/89904583/82b08972-3e58-4daf-9fe0-141f9c6e8b88)
+![image](https://github.com/uUZINN/gogyobok-blogSite/assets/89904583/472c633b-7760-45e3-b880-de45ec6bc28d)
 <br>
 - Design Tool : Figma<br>
 https://www.figma.com/file/dBBlSQ6v4zGpQnMrQ4SQxT/Go!%EA%B5%90%EB%B3%B5?type=design&node-id=30%3A2&mode=design&t=ihJNl8WEa5AFRVs4-1<br>
@@ -37,7 +38,7 @@ https://www.figma.com/file/dBBlSQ6v4zGpQnMrQ4SQxT/Go!%EA%B5%90%EB%B3%B5?type=des
 1. HEADER<br>
    - 메인 컬러 : #1976DE, 서브 컬러 : black, white, #D2E7FF<br>
    - 로고 : 롯데리아 촵땡겨체(LotteriaChab)<br>
-![image](https://github.com/uUZINN/gogyobok-blogSite/assets/89904583/472c633b-7760-45e3-b880-de45ec6bc28d)
+
 <br>
    - 메뉴 : 롯데리아 딱붙어체(LotteriaDdag)<br>
 
