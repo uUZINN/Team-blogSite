@@ -1,4 +1,4 @@
-# Team-Project-blogSite
+![image](https://github.com/uUZINN/gogyobok-blogSite/assets/89904583/d00f9a69-180f-4fbc-82c8-0f11e863baac)# Team-Project-blogSite
 ![image](https://github.com/uUZINN/Team-blogSite/assets/89904583/56e47354-7e0d-4df4-a87d-9c444f9c7dff)
 
 ## Go!교복
@@ -37,9 +37,7 @@ https://www.figma.com/file/dBBlSQ6v4zGpQnMrQ4SQxT/Go!%EA%B5%90%EB%B3%B5?type=des
 1. HEADER<br>
    - 메인 컬러 : #1976DE, 서브 컬러 : black, white, #D2E7FF<br>
    - 로고 : 롯데리아 촵땡겨체(LotteriaChab)<br>
-![image](https://github.com/uUZINN/gogyobok-blogSite/assets/89904583/6a68318c-3f68-489c-96d2-440dc66c8201)
-
-     <br>
+![image](https://github.com/uUZINN/gogyobok-blogSite/assets/89904583/6a68318c-3f68-489c-96d2-440dc66c8201)<br>
    - 메뉴 : 롯데리아 딱붙어체(LotteriaDdag)<br>
 
 2. MAIN<br>
