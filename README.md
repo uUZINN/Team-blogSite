@@ -16,7 +16,7 @@
 각 조회수, 좋아요, 싫어요 순으로 순위를 확인할 수 있습니다.<br>
 <br>
 또, "수다방" 커뮤니티에서 학생들만의 이야기로<br>
-수다의 꽃을 피울 수 있습니다!<br>
+수다의 꽃을 피울 수 있습니다!
 
 
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"></a>
