@@ -37,7 +37,8 @@ https://www.figma.com/file/dBBlSQ6v4zGpQnMrQ4SQxT/Go!%EA%B5%90%EB%B3%B5?type=des
 1. HEADER<br>
    - 메인 컬러 : #1976DE, 서브 컬러 : black, white, #D2E7FF<br>
    - 로고 : 롯데리아 촵땡겨체(LotteriaChab)<br>
-![image](https://github.com/uUZINN/gogyobok-blogSite/assets/89904583/bb6157f9-b8eb-4581-9147-5f3b5cb6edd0)
+![image](https://github.com/uUZINN/gogyobok-blogSite/assets/89904583/6a68318c-3f68-489c-96d2-440dc66c8201)
+
      <br>
    - 메뉴 : 롯데리아 딱붙어체(LotteriaDdag)<br>
 
