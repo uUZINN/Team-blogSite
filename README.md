@@ -117,3 +117,60 @@ https://www.figma.com/file/dBBlSQ6v4zGpQnMrQ4SQxT/Go!%EA%B5%90%EB%B3%B5?type=des
     - 가입 완료 시, 회원 정보 저장<br>
 10. FOOTER<br>
     - Copyright 2023 Gogyobok
+
+## CODE VIEW - JSON파일과 MYSQL정보 가져오기
+```
+<?php
+include "../connect/connect.php";
+include "../connect/session.php";
+
+// SQL 쿼리 생성
+$sql = "SELECT introId, introComment, introView FROM Intro";
+
+// MySQL에서 데이터 가져오기
+$result = mysqli_query($connect, $sql);
+
+// introId 및 introComment 값을 저장할 배열 생성
+$introData = [];
+
+if ($result) {
+    while ($row = mysqli_fetch_assoc($result)) {
+        $introData[] = [
+            'introId' => $row['introId'],
+            'introComment' => $row['introComment'],
+            'introView' => $row['introView']
+        ];
+
+    }
+} else {
+    echo "데이터를 가져오는 중에 오류가 발생했습니다.";
+}
+
+// PHP 배열을 JavaScript 배열로 출력
+echo '<script>let introData = ' . json_encode($introData) . ';</script>';
+?>
+```
+
+```
+ // 정보 가져오기
+const fetchgGobok = (selectedRegion = '') => {
+    fetch("../blog_phpJSON/gobok.json")
+        .then(res => res.json())
+        .then(items => {
+            gobokInfo = items.map((item, index) => {
+                return {
+                    infoRegion: item.region,
+                    infoName: item.school,
+                    infoUniformtypes: item.uniform_types,
+                    infoUniformimg: item.uniform_img
+                };
+            });
+            if (selectedRegion && selectedRegion !== '지역별') {
+                // 선택된 지역에 해당하는 교복 정보만 필터링
+                gobokInfo = gobokInfo.filter(gobok => gobok.infoRegion === selectedRegion);
+            }
+            updateGobok(gobokInfo); // 필터링된 정보로 교복 정보 업데이트
+            
+        });
+}
+```
