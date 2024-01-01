@@ -33,7 +33,6 @@
 https://www.figma.com/file/dBBlSQ6v4zGpQnMrQ4SQxT/Go!%EA%B5%90%EB%B3%B5?type=design&node-id=30%3A2&mode=design&t=ihJNl8WEa5AFRVs4-1<br>
 <br>
 ![image](https://github.com/uUZINN/gogyobok-blogSite/assets/89904583/82b08972-3e58-4daf-9fe0-141f9c6e8b88)
-<br>
 ![image](https://github.com/uUZINN/gogyobok-blogSite/assets/89904583/4f7d1c60-7c9a-4245-91b1-812b52988969)
 
 <br>
