@@ -28,12 +28,11 @@
   <a href="#"><img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpMyAdmin&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white"></a>
 
-## Design 
-- Design Tool : Figma<br>
-https://www.figma.com/file/dBBlSQ6v4zGpQnMrQ4SQxT/Go!%EA%B5%90%EB%B3%B5?type=design&node-id=30%3A2&mode=design&t=ihJNl8WEa5AFRVs4-1<br>
-<br>
+## Figma 
 ![image](https://github.com/uUZINN/gogyobok-blogSite/assets/89904583/82b08972-3e58-4daf-9fe0-141f9c6e8b88)
 ![image](https://github.com/uUZINN/gogyobok-blogSite/assets/89904583/4f7d1c60-7c9a-4245-91b1-812b52988969)
+
+https://www.figma.com/file/dBBlSQ6v4zGpQnMrQ4SQxT/Go!%EA%B5%90%EB%B3%B5?type=design&node-id=30%3A2&mode=design&t=ihJNl8WEa5AFRVs4-1<br>
 
 <br>
 1. HEADER<br>
