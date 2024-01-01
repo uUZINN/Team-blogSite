@@ -28,10 +28,23 @@
   <a href="#"><img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpMyAdmin&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white"></a>
 
-## Figma 
+## Design Map
 ![image](https://github.com/uUZINN/gogyobok-blogSite/assets/89904583/82b08972-3e58-4daf-9fe0-141f9c6e8b88)
+1. 사이트 명(Logo) 선정 : Go!교복
+   - 해석1. Go를 그대로 해석하여 "교복을 보러가다"
+   - 해석2. Go를 한글 '고'로 소리나는대로 읽어 "고교복" (고등학교 교복)
+2. 페이지 구성
+   - HOME (메인페이지)
+   - SUB (교복소개, 인기순위, 수다방, LOGIN/JOIN)
+3. 페이지별 기능 구성
+   - 기본 기능 : 게시판 글쓰기, 리스트, 수정, 삭제
+   - 새로 추가한 기능 : 게시글 좋아요, 게시글 싫어요, 댓글 좋아요, 교복 좋아요, 교복 싫어요
+
+
+## Figma 
 ![image](https://github.com/uUZINN/gogyobok-blogSite/assets/89904583/4f7d1c60-7c9a-4245-91b1-812b52988969)
 
+피그마 디자인 미리보기 :
 https://www.figma.com/file/dBBlSQ6v4zGpQnMrQ4SQxT/Go!%EA%B5%90%EB%B3%B5?type=design&node-id=30%3A2&mode=design&t=ihJNl8WEa5AFRVs4-1<br>
 
 <br>
