@@ -18,7 +18,7 @@
 또, "수다방" 커뮤니티에서 학생들만의 이야기로<br>
 수다의 꽃을 피울 수 있습니다!
 
-
+## Use Stack
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"></a>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></a>
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white"></a>
@@ -29,10 +29,12 @@
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white"></a>
 
 ## Design 
-![image](https://github.com/uUZINN/gogyobok-blogSite/assets/89904583/82b08972-3e58-4daf-9fe0-141f9c6e8b88)
-<br>
 - Design Tool : Figma<br>
 https://www.figma.com/file/dBBlSQ6v4zGpQnMrQ4SQxT/Go!%EA%B5%90%EB%B3%B5?type=design&node-id=30%3A2&mode=design&t=ihJNl8WEa5AFRVs4-1<br>
+![image](https://github.com/uUZINN/gogyobok-blogSite/assets/89904583/82b08972-3e58-4daf-9fe0-141f9c6e8b88)
+<br>
+![image](https://github.com/uUZINN/gogyobok-blogSite/assets/89904583/4f7d1c60-7c9a-4245-91b1-812b52988969)
+
 <br>
 1. HEADER<br>
    - 메인 컬러 : #1976DE, 서브 컬러 : black, white, #D2E7FF<br>
